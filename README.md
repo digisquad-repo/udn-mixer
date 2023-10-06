@@ -1,30 +1,22 @@
 # udn-mixer
 
-
-## DESCRIPTION : 
-
-
 UDN Mixer is a simple tool that generates .com UDN (Universal Domain Name) compatible payloads from input patterns provided through STDIN.
 Note if you're goal is to check homoglyph phishing, you should consider the rules define by the owner of the TLD that can be read in the IANA tables or ./code.generator/data.sources/
 
 ## DATA SOURCES 
 
-
 The tool sources its data directly from the IANA tables. (https://www.iana.org/domains/idn-tables/tables/) 
 
 ## USAGE EXAMPLES 
 
-
-### Generate payloads from a given domain pattern:
-
+Generate payloads from a given domain pattern:
 
 ```
 echo "test.com"  | ./udnmixer -r ./rules.json | head -n 10
 
 ``` 
 
-### Output : 
-
+Output : 
 
 ``` 
  test.com
@@ -39,16 +31,14 @@ echo "test.com"  | ./udnmixer -r ./rules.json | head -n 10
  ẗest.com
 ```
 
-### Generate a specific type of payload:
-
+Generate a specific type of payload:
 
 ```
 (echo "aaaaa.stop"; echo "aaaa.bbbb.stop") | ./udnmixer -r ./rules.json | sed 's/\.stop//'| head -n 5
 
 ```
 
-### Output : 
-
+Output : 
 
 ```
  aaaaa
@@ -59,8 +49,7 @@ echo "test.com"  | ./udnmixer -r ./rules.json | head -n 10
 
 ```
 
-## RULES FILE : 
-
+# RULES FILE 
 
 The rules.json file was generated using the tools found in the code.generator directory.
 

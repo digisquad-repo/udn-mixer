@@ -1,0 +1,1222 @@
+ー / U+30FC ; - ; https://www.iana.org/domains/idn-tables/tables/com_hira_1.2.txt ; KATAKANA-HIRAGANA PROLONGED SOUND MARK
+ー / U+30FC ; - ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; KATAKANA-HIRAGANA PROLONGED SOUND MARK
+ー / U+30FC ; - ; https://www.iana.org/domains/idn-tables/tables/com_kana_1.2.txt ; KATAKANA-HIRAGANA PROLONGED SOUND MARK
+
+a / U+0061 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER A
+a / U+0061 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER A
+a / U+0061 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A
+a / U+0061 ; a ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER A
+a / U+0061 ; a ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER A
+à / U+00E0 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A GRAVE
+á / U+00E1 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A ACUTE
+â / U+00E2 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A CIRCUMFLEX
+ã / U+00E3 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A TILDE
+ä / U+00E4 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A DIAERESIS
+å / U+00E5 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A RING
+ā / U+0101 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A MACRON
+ă / U+0103 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A BREVE
+ą / U+0105 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A OGONEK
+ą / U+0105 ; a ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER A OGONEK
+ǎ / U+01CE ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A HACEK
+ǟ / U+01DF ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A DIAERESIS MACRON
+ǡ / U+01E1 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A DOT MACRON
+ǻ / U+01FB ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
+ȁ / U+0201 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH DOUBLE GRAVE
+ȃ / U+0203 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH INVERTED BREVE
+ȧ / U+0227 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH DOT ABOVE
+ḁ / U+1E01 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH RING BELOW
+ạ / U+1EA1 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH DOT BELOW
+ả / U+1EA3 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH HOOK ABOVE
+ấ / U+1EA5 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+ầ / U+1EA7 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+ẩ / U+1EA9 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+ẫ / U+1EAB ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+ậ / U+1EAD ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+ắ / U+1EAF ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+ằ / U+1EB1 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH BREVE AND GRAVE
+ẳ / U+1EB3 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE
+ẵ / U+1EB5 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH BREVE AND TILDE
+ặ / U+1EB7 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+ᴀ / U+1D00 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL A
+ⱥ / U+2C65 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH STROKE
+ᶏ / U+1D8F ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER A WITH RETROFLEX HOOK
+ᶐ / U+1D90 ; a ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER ALPHA WITH RETROFLEX HOOK
+
+b / U+0062 ; b ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER B
+b / U+0062 ; b ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER B
+b / U+0062 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B
+b / U+0062 ; b ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER B
+b / U+0062 ; b ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER B
+ḃ / U+1E03 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B WITH DOT ABOVE
+ḅ / U+1E05 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B WITH DOT BELOW
+ḇ / U+1E07 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B WITH LINE BELOW
+ʙ / U+0299 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL B
+ƀ / U+0180 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B BAR
+ᴯ / U+1D2F ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	MODIFIER LETTER CAPITAL BARRED B
+ᴃ / U+1D03 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL BARRED B
+ᵬ / U+1D6C ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B WITH MIDDLE TILDE
+ᶀ / U+1D80 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B WITH PALATAL HOOK
+ɓ / U+0253 ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER B HOOK
+c / U+0063 ; c ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER C
+c / U+0063 ; c ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER C
+c / U+0063 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C
+c / U+0063 ; c ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER C
+c / U+0063 ; c ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER C
+ç / U+00E7 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C CEDILLA
+ć / U+0107 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C ACUTE
+ć / U+0107 ; c ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER C ACUTE
+ĉ / U+0109 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C CIRCUMFLEX
+ċ / U+010B ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C DOT
+č / U+010D ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C HACEK
+ḉ / U+1E09 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+ᴄ / U+1D04 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL C
+ȼ / U+023C ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C WITH STROKE
+ƈ / U+0188 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C HOOK
+ɕ / U+0255 ; c ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER C CURL
+d / U+0064 ; d ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER D
+d / U+0064 ; d ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER D
+d / U+0064 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D
+d / U+0064 ; d ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER D
+d / U+0064 ; d ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER D
+ð / U+00F0 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER ETH
+ď / U+010F ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D HACEK
+đ / U+0111 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D BAR
+ḋ / U+1E0B ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH DOT ABOVE
+ḍ / U+1E0D ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH DOT BELOW
+ḏ / U+1E0F ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH LINE BELOW
+ḑ / U+1E11 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH CEDILLA
+ḓ / U+1E13 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW
+ꝺ / U+A77A ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER INSULAR D
+ᴅ / U+1D05 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL D
+ᴆ / U+1D06 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL ETH
+ᵭ / U+1D6D ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH MIDDLE TILDE
+ᶁ / U+1D81 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH PALATAL HOOK
+ɖ / U+0256 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D RETROFLEX HOOK
+ɗ / U+0257 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D HOOK
+ᶑ / U+1D91 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH HOOK AND TAIL
+ƌ / U+018C ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D TOPBAR
+ȡ / U+0221 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER D WITH CURL
+ꝱ / U+A771 ; d ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER DUM
+e / U+0065 ; e ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER E
+e / U+0065 ; e ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER E
+e / U+0065 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E
+e / U+0065 ; e ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER E
+e / U+0065 ; e ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER E
+è / U+00E8 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E GRAVE
+é / U+00E9 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E ACUTE
+ê / U+00EA ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E CIRCUMFLEX
+ë / U+00EB ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E DIAERESIS
+ē / U+0113 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E MACRON
+ĕ / U+0115 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E BREVE
+ė / U+0117 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E DOT
+ę / U+0119 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E OGONEK
+ę / U+0119 ; e ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER E OGONEK
+ě / U+011B ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E HACEK
+ȅ / U+0205 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH DOUBLE GRAVE
+ȇ / U+0207 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH INVERTED BREVE
+ȩ / U+0229 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CEDILLA
+ḕ / U+1E15 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH MACRON AND GRAVE
+ḗ / U+1E17 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+ḙ / U+1E19 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW
+ḛ / U+1E1B ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH TILDE BELOW
+ḝ / U+1E1D ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+ẹ / U+1EB9 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH DOT BELOW
+ẻ / U+1EBB ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH HOOK ABOVE
+ẽ / U+1EBD ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH TILDE
+ế / U+1EBF ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+ề / U+1EC1 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+ể / U+1EC3 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+ễ / U+1EC5 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+ệ / U+1EC7 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+ᴇ / U+1D07 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL E
+ɇ / U+0247 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH STROKE
+ᶒ / U+1D92 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH RETROFLEX HOOK
+ⱸ / U+2C78 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER E WITH NOTCH
+ɛ / U+025B ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER EPSILON
+ᶓ / U+1D93 ; e ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER OPEN E WITH RETROFLEX HOOK
+ɜ / U+025C ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER REVERSED EPSILON
+ᴈ / U+1D08 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TURNED OPEN E
+f / U+0066 ; f ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER F
+f / U+0066 ; f ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER F
+f / U+0066 ; f ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER F
+f / U+0066 ; f ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER F
+f / U+0066 ; f ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER F
+ḟ / U+1E1F ; f ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER F WITH DOT ABOVE
+ꜰ / U+A730 ; f ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL F
+ƒ / U+0192 ; f ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER SCRIPT F
+g / U+0067 ; g ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER G
+g / U+0067 ; g ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER G
+g / U+0067 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G
+g / U+0067 ; g ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER G
+g / U+0067 ; g ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER G
+ĝ / U+011D ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G CIRCUMFLEX
+ğ / U+011F ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G BREVE
+ġ / U+0121 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G DOT
+ģ / U+0123 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G CEDILLA
+ǧ / U+01E7 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G HACEK
+ǵ / U+01F5 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G WITH ACUTE
+ḡ / U+1E21 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G WITH MACRON
+ꞡ / U+A7A1 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G WITH OBLIQUE STROKE
+ɢ / U+0262 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL G
+ǥ / U+01E5 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G BAR
+ᶃ / U+1D83 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G WITH PALATAL HOOK
+ɠ / U+0260 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER G HOOK
+ʛ / U+029B ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL G HOOK
+h / U+0068 ; h ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER H
+h / U+0068 ; h ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER H
+h / U+0068 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H
+h / U+0068 ; h ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER H
+h / U+0068 ; h ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER H
+ĥ / U+0125 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H CIRCUMFLEX
+ħ / U+0127 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H BAR
+ȟ / U+021F ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH CARON
+ḣ / U+1E23 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH DOT ABOVE
+ḥ / U+1E25 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH DOT BELOW
+ḧ / U+1E27 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH DIAERESIS
+ḩ / U+1E29 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH CEDILLA
+ḫ / U+1E2B ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH BREVE BELOW
+ẖ / U+1E96 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH LINE BELOW
+ʜ / U+029C ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL H
+ƕ / U+0195 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H V
+ɦ / U+0266 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H HOOK
+ⱨ / U+2C68 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER H WITH DESCENDER
+ꜧ / U+A727 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER HENG
+ɧ / U+0267 ; h ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER HENG HOOK
+i / U+0069 ; i ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER I
+i / U+0069 ; i ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER I
+i / U+0069 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I
+i / U+0069 ; i ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER I
+i / U+0069 ; i ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER I
+ì / U+00EC ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I GRAVE
+í / U+00ED ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I ACUTE
+î / U+00EE ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I CIRCUMFLEX
+ï / U+00EF ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I DIAERESIS
+ĩ / U+0129 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I TILDE
+ī / U+012B ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I MACRON
+ĭ / U+012D ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I BREVE
+į / U+012F ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I OGONEK
+ǐ / U+01D0 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I HACEK
+ȉ / U+0209 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH DOUBLE GRAVE
+ȋ / U+020B ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH INVERTED BREVE
+ḭ / U+1E2D ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH TILDE BELOW
+ḯ / U+1E2F ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+ỉ / U+1EC9 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH HOOK ABOVE
+ị / U+1ECB ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER I WITH DOT BELOW
+ı / U+0131 ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER DOTLESS I
+ɪ / U+026A ; i ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL I
+j / U+006A ; j ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER J
+j / U+006A ; j ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER J
+j / U+006A ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER J
+j / U+006A ; j ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER J
+j / U+006A ; j ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER J
+ĵ / U+0135 ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER J CIRCUMFLEX
+ǰ / U+01F0 ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER J HACEK
+ȷ / U+0237 ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER DOTLESS J
+ᴊ / U+1D0A ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL J
+ɉ / U+0249 ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER J WITH STROKE
+ʝ / U+029D ; j ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER CROSSED-TAIL J
+k / U+006B ; k ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER K
+k / U+006B ; k ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER K
+k / U+006B ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K
+k / U+006B ; k ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER K
+k / U+006B ; k ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER K
+ķ / U+0137 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K CEDILLA
+ǩ / U+01E9 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K HACEK
+ḱ / U+1E31 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH ACUTE
+ḳ / U+1E33 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH DOT BELOW
+ḵ / U+1E35 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH LINE BELOW
+ꞣ / U+A7A3 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH OBLIQUE STROKE
+ᴋ / U+1D0B ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL K
+ᶄ / U+1D84 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH PALATAL HOOK
+ƙ / U+0199 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K HOOK
+ⱪ / U+2C6A ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH DESCENDER
+ꝁ / U+A741 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH STROKE
+ꝃ / U+A743 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH DIAGONAL STROKE
+ꝅ / U+A745 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE
+l / U+006C ; l ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER L
+l / U+006C ; l ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER L
+l / U+006C ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L
+l / U+006C ; l ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER L
+l / U+006C ; l ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER L
+ĺ / U+013A ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L ACUTE
+ļ / U+013C ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L CEDILLA
+ľ / U+013E ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L HACEK
+ł / U+0142 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L SLASH
+ł / U+0142 ; l ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER L SLASH
+ḷ / U+1E37 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH DOT BELOW
+ḹ / U+1E39 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH DOT BELOW AND MACRON
+ḻ / U+1E3B ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH LINE BELOW
+ḽ / U+1E3D ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW
+ʟ / U+029F ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL L
+ꝉ / U+A749 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH HIGH STROKE
+ᶅ / U+1D85 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH PALATAL HOOK
+ɭ / U+026D ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L RETROFLEX HOOK
+ꞎ / U+A78E ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT
+ȴ / U+0234 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER L WITH CURL
+ꞁ / U+A781 ; l ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TURNED L
+m / U+006D ; m ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER M
+m / U+006D ; m ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER M
+m / U+006D ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M
+m / U+006D ; m ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER M
+m / U+006D ; m ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER M
+ḿ / U+1E3F ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M WITH ACUTE
+ṁ / U+1E41 ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M WITH DOT ABOVE
+ṃ / U+1E43 ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M WITH DOT BELOW
+ᴍ / U+1D0D ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL M
+ᵯ / U+1D6F ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M WITH MIDDLE TILDE
+ᶆ / U+1D86 ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M WITH PALATAL HOOK
+ɱ / U+0271 ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER M HOOK
+ꟽ / U+A7FD ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN EPIGRAPHIC LETTER INVERTED M
+ꝳ / U+A773 ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER MUM
+n / U+006E ; n ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER N
+n / U+006E ; n ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER N
+n / U+006E ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N
+n / U+006E ; n ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER N
+n / U+006E ; n ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER N
+ñ / U+00F1 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N TILDE
+ń / U+0144 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N ACUTE
+ń / U+0144 ; n ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER N ACUTE
+ņ / U+0146 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N CEDILLA
+ň / U+0148 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N HACEK
+ǹ / U+01F9 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH GRAVE
+ṅ / U+1E45 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ / U+1E47 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH DOT BELOW
+ṉ / U+1E49 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH LINE BELOW
+ṋ / U+1E4B ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW
+ꞥ / U+A7A5 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH OBLIQUE STROKE
+ɴ / U+0274 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL N
+ɲ / U+0272 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N HOOK
+ƞ / U+019E ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH LONG RIGHT LEG
+ꞑ / U+A791 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH DESCENDER
+ᶇ / U+1D87 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH PALATAL HOOK
+ɳ / U+0273 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N RETROFLEX HOOK
+ȵ / U+0235 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER N WITH CURL
+ꝴ / U+A774 ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER NUM
+ŋ / U+014B ; n ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER ENG
+o / U+006F ; o ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER O
+o / U+006F ; o ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER O
+o / U+006F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O
+o / U+006F ; o ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER O
+o / U+006F ; o ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER O
+ò / U+00F2 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O GRAVE
+ó / U+00F3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O ACUTE
+ó / U+00F3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER O ACUTE
+ô / U+00F4 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O CIRCUMFLEX
+õ / U+00F5 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O TILDE
+ö / U+00F6 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O DIAERESIS
+ø / U+00F8 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O SLASH
+ō / U+014D ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O MACRON
+ŏ / U+014F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O BREVE
+ő / U+0151 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O DOUBLE ACUTE
+ơ / U+01A1 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O HORN
+ǒ / U+01D2 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O HACEK
+ǫ / U+01EB ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O OGONEK
+ǭ / U+01ED ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O OGONEK MACRON
+ǿ / U+01FF ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH STROKE AND ACUTE
+ȍ / U+020D ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH DOUBLE GRAVE
+ȏ / U+020F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH INVERTED BREVE
+ȫ / U+022B ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH DIAERESIS AND MACRON
+ȭ / U+022D ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH TILDE AND MACRON
+ȯ / U+022F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH DOT ABOVE
+ȱ / U+0231 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON
+ṍ / U+1E4D ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+ṏ / U+1E4F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH TILDE AND DIAERESIS
+ṑ / U+1E51 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH MACRON AND GRAVE
+ṓ / U+1E53 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+ọ / U+1ECD ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH DOT BELOW
+ỏ / U+1ECF ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HOOK ABOVE
+ố / U+1ED1 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+ồ / U+1ED3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+ổ / U+1ED5 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+ỗ / U+1ED7 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+ộ / U+1ED9 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+ớ / U+1EDB ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HORN AND ACUTE
+ờ / U+1EDD ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HORN AND GRAVE
+ở / U+1EDF ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE
+ỡ / U+1EE1 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HORN AND TILDE
+ợ / U+1EE3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER O WITH HORN AND DOT BELOW
+ᴏ / U+1D0F ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL O
+ᴑ / U+1D11 ; o ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER SIDEWAYS O
+ȣ / U+0223 ; 8 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER OU
+ᴕ / U+1D15 ; 8 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL OU
+p / U+0070 ; p ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER P
+p / U+0070 ; p ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER P
+p / U+0070 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P
+p / U+0070 ; p ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER P
+p / U+0070 ; p ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER P
+ṕ / U+1E55 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH ACUTE
+ṗ / U+1E57 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH DOT ABOVE
+ᴘ / U+1D18 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL P
+ᵽ / U+1D7D ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH STROKE
+ꝑ / U+A751 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER
+ᵱ / U+1D71 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH MIDDLE TILDE
+ᶈ / U+1D88 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER P WITH PALATAL HOOK
+q / U+0071 ; q ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER Q
+q / U+0071 ; q ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER Q
+q / U+0071 ; q ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Q
+q / U+0071 ; q ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER Q
+q / U+0071 ; q ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER Q
+ꝗ / U+A757 ; q ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER
+ɋ / U+024B ; q ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Q WITH HOOK TAIL
+ĸ / U+0138 ; k ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER KRA
+r / U+0072 ; r ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER R
+r / U+0072 ; r ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER R
+r / U+0072 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R
+r / U+0072 ; r ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER R
+r / U+0072 ; r ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER R
+ŕ / U+0155 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R ACUTE
+ŗ / U+0157 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R CEDILLA
+ř / U+0159 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R HACEK
+ȑ / U+0211 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH DOUBLE GRAVE
+ȓ / U+0213 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH INVERTED BREVE
+ṙ / U+1E59 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH DOT ABOVE
+ṛ / U+1E5B ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH DOT BELOW
+ṝ / U+1E5D ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+ṟ / U+1E5F ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R WITH LINE BELOW
+ʀ / U+0280 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL R
+ꝛ / U+A75B ; 2 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER R ROTUNDA
+ß / U+00DF ; b ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER SHARP S
+s / U+0073 ; s ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER S
+s / U+0073 ; s ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER S
+s / U+0073 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S
+s / U+0073 ; s ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER S
+s / U+0073 ; s ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER S
+ś / U+015B ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S ACUTE
+ś / U+015B ; s ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER S ACUTE
+ŝ / U+015D ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S CIRCUMFLEX
+ş / U+015F ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S CEDILLA
+š / U+0161 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S HACEK
+ș / U+0219 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH COMMA BELOW
+ṡ / U+1E61 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH DOT ABOVE
+ṣ / U+1E63 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH DOT BELOW
+ṥ / U+1E65 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+ṧ / U+1E67 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+ṩ / U+1E69 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+ꞅ / U+A785 ; r ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER INSULAR S
+ꜱ / U+A731 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL S
+ᵴ / U+1D74 ; s ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER S WITH MIDDLE TILDE
+t / U+0074 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER T
+t / U+0074 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER T
+t / U+0074 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T
+t / U+0074 ; t ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER T
+t / U+0074 ; t ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER T
+ţ / U+0163 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T CEDILLA
+ť / U+0165 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T HACEK
+ț / U+021B ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH COMMA BELOW
+ṫ / U+1E6B ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH DOT ABOVE
+ṭ / U+1E6D ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH DOT BELOW
+ṯ / U+1E6F ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH LINE BELOW
+ṱ / U+1E71 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW
+ẗ / U+1E97 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH DIAERESIS
+ᴛ / U+1D1B ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL T
+ƫ / U+01AB ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T PALATAL HOOK
+ƭ / U+01AD ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T HOOK
+ʈ / U+0288 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T RETROFLEX HOOK
+ȶ / U+0236 ; t ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER T WITH CURL
+u / U+0075 ; u ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER U
+u / U+0075 ; u ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER U
+u / U+0075 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U
+u / U+0075 ; u ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER U
+u / U+0075 ; u ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER U
+ù / U+00F9 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U GRAVE
+ú / U+00FA ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U ACUTE
+û / U+00FB ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U CIRCUMFLEX
+ü / U+00FC ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DIAERESIS
+ũ / U+0169 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U TILDE
+ū / U+016B ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U MACRON
+ŭ / U+016D ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U BREVE
+ů / U+016F ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U RING
+ű / U+0171 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DOUBLE ACUTE
+ų / U+0173 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U OGONEK
+ư / U+01B0 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U HORN
+ǔ / U+01D4 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U HACEK
+ǖ / U+01D6 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DIAERESIS MACRON
+ǘ / U+01D8 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DIAERESIS ACUTE
+ǚ / U+01DA ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DIAERESIS HACEK
+ǜ / U+01DC ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U DIAERESIS GRAVE
+ȕ / U+0215 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH DOUBLE GRAVE
+ȗ / U+0217 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH INVERTED BREVE
+ṳ / U+1E73 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH DIAERESIS BELOW
+ṵ / U+1E75 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH TILDE BELOW
+ṷ / U+1E77 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW
+ṹ / U+1E79 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+ṻ / U+1E7B ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+ụ / U+1EE5 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH DOT BELOW
+ủ / U+1EE7 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HOOK ABOVE
+ứ / U+1EE9 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HORN AND ACUTE
+ừ / U+1EEB ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HORN AND GRAVE
+ử / U+1EED ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE
+ữ / U+1EEF ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HORN AND TILDE
+ự / U+1EF1 ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER U WITH HORN AND DOT BELOW
+ᴜ / U+1D1C ; u ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL U
+ɯ / U+026F ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TURNED M
+ꟺ / U+A7FA ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL TURNED M
+v / U+0076 ; v ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER V
+v / U+0076 ; v ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER V
+v / U+0076 ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V
+v / U+0076 ; v ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER V
+v / U+0076 ; v ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER V
+ṽ / U+1E7D ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH TILDE
+ṿ / U+1E7F ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH DOT BELOW
+ꝡ / U+A761 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER VY
+ᴠ / U+1D20 ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL V
+ꝟ / U+A75F ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH DIAGONAL STROKE
+ᶌ / U+1D8C ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH PALATAL HOOK
+ʋ / U+028B ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER SCRIPT V
+ⱱ / U+2C71 ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH RIGHT HOOK
+ⱴ / U+2C74 ; v ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER V WITH CURL
+ỽ / U+1EFD ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER MIDDLE-WELSH V
+w / U+0077 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER W
+w / U+0077 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER W
+w / U+0077 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W
+w / U+0077 ; w ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER W
+w / U+0077 ; w ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER W
+ŵ / U+0175 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W CIRCUMFLEX
+ẁ / U+1E81 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH GRAVE
+ẃ / U+1E83 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH ACUTE
+ẅ / U+1E85 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH DIAERESIS
+ẇ / U+1E87 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH DOT ABOVE
+ẉ / U+1E89 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH DOT BELOW
+ẘ / U+1E98 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH RING ABOVE
+ᴡ / U+1D21 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL W
+ⱳ / U+2C73 ; w ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER W WITH HOOK
+ʍ / U+028D ; m ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TURNED W
+x / U+0078 ; x ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER X
+x / U+0078 ; x ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER X
+x / U+0078 ; x ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER X
+x / U+0078 ; x ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER X
+x / U+0078 ; x ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER X
+ẋ / U+1E8B ; x ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER X WITH DOT ABOVE
+ẍ / U+1E8D ; x ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER X WITH DIAERESIS
+ᶍ / U+1D8D ; x ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER X WITH PALATAL HOOK
+y / U+0079 ; y ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER Y
+y / U+0079 ; y ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER Y
+y / U+0079 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y
+y / U+0079 ; y ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER Y
+y / U+0079 ; y ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER Y
+ý / U+00FD ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y ACUTE
+ÿ / U+00FF ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y DIAERESIS
+ŷ / U+0177 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y CIRCUMFLEX
+ȳ / U+0233 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH MACRON
+ẏ / U+1E8F ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH DOT ABOVE
+ẙ / U+1E99 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH RING ABOVE
+ỳ / U+1EF3 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH GRAVE
+ỵ / U+1EF5 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH DOT BELOW
+ỷ / U+1EF7 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH HOOK ABOVE
+ỹ / U+1EF9 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH TILDE
+ʏ / U+028F ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL Y
+ɏ / U+024F ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH STROKE
+ƴ / U+01B4 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y HOOK
+ỿ / U+1EFF ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Y WITH LOOP
+ȝ / U+021D ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER YOGH
+z / U+007A ; z ; https://www.iana.org/domains/idn-tables/tables/com_ja_1.2.txt ; LATIN SMALL LETTER Z
+z / U+007A ; z ; https://www.iana.org/domains/idn-tables/tables/com_ko_1.2.txt ; LATIN SMALL LETTER Z
+z / U+007A ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z
+z / U+007A ; z ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER Z
+z / U+007A ; z ; https://www.iana.org/domains/idn-tables/tables/com_zh_1.2.txt ; LATIN SMALL LETTER Z
+ź / U+017A ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z ACUTE
+ź / U+017A ; z ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER Z ACUTE
+ż / U+017C ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z DOT
+ż / U+017C ; z ; https://www.iana.org/domains/idn-tables/tables/com_pl_1.2.txt ; LATIN SMALL LETTER Z DOT
+ž / U+017E ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z HACEK
+ẑ / U+1E91 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH CIRCUMFLEX
+ẓ / U+1E93 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH DOT BELOW
+ẕ / U+1E95 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH LINE BELOW
+ƍ / U+018D ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TURNED DELTA
+ᴢ / U+1D22 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL Z
+ƶ / U+01B6 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z BAR
+ᵶ / U+1D76 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH MIDDLE TILDE
+ᶎ / U+1D8E ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH PALATAL HOOK
+ȥ / U+0225 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH HOOK
+ʐ / U+0290 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z RETROFLEX HOOK
+ʑ / U+0291 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z CURL
+ɀ / U+0240 ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH SWASH TAIL
+ⱬ / U+2C6C ; z ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER Z WITH DESCENDER
+ǯ / U+01EF ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER YOGH HACEK
+ʒ / U+0292 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER YOGH
+ᴣ / U+1D23 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER SMALL CAPITAL EZH
+ᶚ / U+1D9A ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER EZH WITH RETROFLEX HOOK
+ƺ / U+01BA ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER YOGH WITH TAIL
+ʓ / U+0293 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER YOGH CURL
+þ / U+00FE ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER THORN
+ꝥ / U+A765 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER THORN WITH STROKE
+ꝧ / U+A767 ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER
+ƿ / U+01BF ; p ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN LETTER WYNN
+ꝩ / U+A769 ; y ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER VEND
+ꝫ / U+A76B ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER ET
+ꝯ / U+A76F ; 9 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER CON
+ꝸ / U+A778 ; g ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER UM
+ꜫ / U+A72B ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TRESILLO
+ꜭ / U+A72D ; 4 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER CUATRILLO
+ꜯ / U+A72F ; 4 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER CUATRILLO WITH COMMA
+ƨ / U+01A8 ; 2 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TONE TWO
+ƽ / U+01BD ; 5 ; https://www.iana.org/domains/idn-tables/tables/com_latn_2.6.txt ; Latin	LATIN SMALL LETTER TONE FIVE
+ή / U+03AE ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA TONOS
+η / U+03B7 ; n ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER ETA
+η / U+03B7 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA
+ἠ / U+1F20 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH PSILI
+ἡ / U+1F21 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH DASIA
+ἢ / U+1F22 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH PSILI AND VARIA
+ἣ / U+1F23 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH DASIA AND VARIA
+ἤ / U+1F24 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+ἥ / U+1F25 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+ἦ / U+1F26 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI
+ἧ / U+1F27 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
+ὴ / U+1F74 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH VARIA
+ῆ / U+1FC6 ; n ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ETA WITH PERISPOMENI
+ΐ / U+0390 ; i ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER IOTA DIAERESIS TONOS
+ΐ / U+0390 ; i ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA DIAERESIS TONOS
+ί / U+03AF ; i ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER IOTA TONOS
+ί / U+03AF ; i ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA TONOS
+ι / U+03B9 ; l ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER IOTA
+ι / U+03B9 ; l ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA
+ϊ / U+03CA ; i ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER IOTA DIAERESIS
+ϊ / U+03CA ; i ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA DIAERESIS
+ἰ / U+1F30 ; i ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA WITH PSILI
+ἱ / U+1F31 ; i ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA WITH DASIA
+ὶ / U+1F76 ; l ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER IOTA WITH VARIA
+ϳ / U+03F3 ; j ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK LETTER YOT
+κ / U+03BA ; k ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER KAPPA
+κ / U+03BA ; k ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER KAPPA
+μ / U+03BC ; u ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER MU
+μ / U+03BC ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER MU
+ν / U+03BD ; v ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER NU
+ν / U+03BD ; v ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER NU
+ο / U+03BF ; o ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER OMICRON
+ο / U+03BF ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON
+ό / U+03CC ; o ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER OMICRON TONOS
+ό / U+03CC ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON TONOS
+ὀ / U+1F40 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH PSILI
+ὁ / U+1F41 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH DASIA
+ὂ / U+1F42 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
+ὃ / U+1F43 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
+ὄ / U+1F44 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+ὅ / U+1F45 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+ὸ / U+1F78 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMICRON WITH VARIA
+π / U+03C0 ; m ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER PI
+π / U+03C0 ; m ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER PI
+ᴨ / U+1D28 ; m ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK LETTER SMALL CAPITAL PI
+ϻ / U+03FB ; m ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER SAN
+ϙ / U+03D9 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER ARCHAIC KOPPA
+ρ / U+03C1 ; p ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER RHO
+ρ / U+03C1 ; p ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER RHO
+ῤ / U+1FE4 ; p ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER RHO WITH PSILI
+ῥ / U+1FE5 ; p ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER RHO WITH DASIA
+ᴩ / U+1D29 ; p ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK LETTER SMALL CAPITAL RHO
+ϼ / U+03FC ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK RHO WITH STROKE SYMBOL
+ς / U+03C2 ; c ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER FINAL SIGMA
+ς / U+03C2 ; c ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER FINAL SIGMA
+σ / U+03C3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER SIGMA
+σ / U+03C3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER SIGMA
+τ / U+03C4 ; t ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER TAU
+τ / U+03C4 ; t ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER TAU
+υ / U+03C5 ; u ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER UPSILON
+υ / U+03C5 ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON
+ϋ / U+03CB ; u ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER UPSILON DIAERESIS
+ϋ / U+03CB ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON DIAERESIS
+ύ / U+03CD ; u ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER UPSILON TONOS
+ύ / U+03CD ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON TONOS
+ὐ / U+1F50 ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON WITH PSILI
+ὺ / U+1F7A ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON WITH VARIA
+ῠ / U+1FE0 ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON WITH VRACHY
+ῡ / U+1FE1 ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON WITH MACRON
+ῢ / U+1FE2 ; u ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
+χ / U+03C7 ; x ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER CHI
+χ / U+03C7 ; x ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER CHI
+ω / U+03C9 ; w ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER OMEGA
+ω / U+03C9 ; w ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMEGA
+ώ / U+03CE ; w ; https://www.iana.org/domains/idn-tables/tables/com_el_1.2.txt ; GREEK SMALL LETTER OMEGA TONOS
+ώ / U+03CE ; w ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMEGA TONOS
+ὠ / U+1F60 ; w ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMEGA WITH PSILI
+ὡ / U+1F61 ; w ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER OMEGA WITH DASIA
+ϸ / U+03F8 ; p ; https://www.iana.org/domains/idn-tables/tables/com_grek_1.2.txt ; GREEK SMALL LETTER SHO
+ϥ / U+03E5 ; q ; https://www.iana.org/domains/idn-tables/tables/com_copt_1.2.txt ; GREEK SMALL LETTER FEI
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER A
+а / U+0430 ; a ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER A
+ӑ / U+04D1 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER A WITH BREVE
+ӓ / U+04D3 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER A WITH DIAERESIS
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER BE
+б / U+0431 ; 6 ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER BE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER VE
+в / U+0432 ; b ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER VE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER GE
+г / U+0433 ; t ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER GE
+ғ / U+0493 ; f ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER GE BAR
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER DE
+д / U+0434 ; a ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER DE
+ԁ / U+0501 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KOMI DE
+ꙣ / U+A663 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SOFT DE
+ԃ / U+0503 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KOMI DJE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER IE
+е / U+0435 ; e ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER IE
+ѐ / U+0450 ; e ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER IE WITH GRAVE
+ѐ / U+0450 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IE WITH GRAVE
+ѐ / U+0450 ; e ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER IE WITH GRAVE
+ё / U+0451 ; e ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER IO
+ё / U+0451 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IO
+ё / U+0451 ; e ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER IO
+ё / U+0451 ; e ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER IO
+ё / U+0451 ; e ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER IO
+ӗ / U+04D7 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IE WITH BREVE
+є / U+0454 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER E
+є / U+0454 ; e ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER E
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER ZE
+з / U+0437 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER ZE
+ӟ / U+04DF ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ZE WITH DIAERESIS
+ԑ / U+0511 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER REVERSED ZE
+ѕ / U+0455 ; s ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER DZE
+ѕ / U+0455 ; s ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER DZE
+ꙅ / U+A645 ; 2 ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER REVERSED DZE
+ӡ / U+04E1 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ABKHASIAN DZE
+і / U+0456 ; i ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER I
+і / U+0456 ; i ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER I
+і / U+0456 ; i ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER I
+ї / U+0457 ; i ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER YI
+ї / U+0457 ; i ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER YI
+ꙇ / U+A647 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IOTA
+ј / U+0458 ; j ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER JE
+ј / U+0458 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER JE
+ј / U+0458 ; j ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER JE
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER KA
+к / U+043A ; k ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER KA
+ќ / U+045C ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KJE
+ќ / U+045C ; k ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER KJE
+қ / U+049B ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KA WITH RIGHT DESCENDER
+ӄ / U+04C4 ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KA HOOK
+ҡ / U+04A1 ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER REVERSED GE KA
+ҟ / U+049F ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KA BAR
+ҝ / U+049D ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KA VERTICAL BAR
+ԟ / U+051F ; k ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ALEUT KA
+ԛ / U+051B ; q ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER QA
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER EM
+м / U+043C ; m ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER EM
+ӎ / U+04CE ; m ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EM WITH TAIL
+ꙧ / U+A667 ; m ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SOFT EM
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER EN
+н / U+043D ; h ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER EN
+ӊ / U+04CA ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN WITH TAIL
+ң / U+04A3 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN WITH RIGHT DESCENDER
+ӈ / U+04C8 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN HOOK
+ԣ / U+0523 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
+ҥ / U+04A5 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER EN GE
+њ / U+045A ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER NJE
+њ / U+045A ; h ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER NJE
+ԋ / U+050B ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KOMI NJE
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER O
+о / U+043E ; o ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER O
+ӧ / U+04E7 ; o ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER O WITH DIAERESIS
+ꙩ / U+A669 ; o ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER MONOCULAR O
+ꙫ / U+A66B ; o ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER BINOCULAR O
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER ER
+р / U+0440 ; p ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER ER
+ҏ / U+048F ; p ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ER WITH TICK
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER ES
+с / U+0441 ; c ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER ES
+ԍ / U+050D ; g ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KOMI SJE
+ҫ / U+04AB ; c ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ES CEDILLA
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER TE
+т / U+0442 ; t ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER TE
+ꚍ / U+A68D ; t ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER TWE
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER U
+у / U+0443 ; y ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER U
+ў / U+045E ; y ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER SHORT U
+ў / U+045E ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SHORT U
+ӯ / U+04EF ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER U WITH MACRON
+ӱ / U+04F1 ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER U WITH DIAERESIS
+ӳ / U+04F3 ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE
+ү / U+04AF ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER STRAIGHT U
+ұ / U+04B1 ; y ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER STRAIGHT U BAR
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER KHA
+х / U+0445 ; x ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER KHA
+ӽ / U+04FD ; x ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER HA WITH HOOK
+ӿ / U+04FF ; x ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER HA WITH STROKE
+ҳ / U+04B3 ; x ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER KHA WITH RIGHT DESCENDER
+һ / U+04BB ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER H
+ꚕ / U+A695 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER HWE
+ѡ / U+0461 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER OMEGA
+ѿ / U+047F ; w ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER OT
+ѻ / U+047B ; o ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER ROUND OMEGA
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ц / U+0446 ; u ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER TSE
+ꙡ / U+A661 ; u ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER REVERSED TSE
+ꚏ / U+A68F ; u ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER TSWE
+ҵ / U+04B5 ; u ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER TE TSE
+ҽ / U+04BD ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IE HOOK
+ҿ / U+04BF ; e ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER IE HOOK OGONEK
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_az_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_mk_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER SHA
+ш / U+0448 ; w ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER SHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+щ / U+0449 ; w ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER SHCHA
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ъ / U+044A ; b ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER HARD SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_be_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_bg_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_cyrl_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_ku_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_mo_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_ru_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ь / U+044C ; b ; https://www.iana.org/domains/idn-tables/tables/com_uk_1.2.txt ; CYRILLIC SMALL LETTER SOFT SIGN
+ⴅ / U+2D05 ; m ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER VIN
+ჳ / U+10F3 ; 3 ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER WE
+ⴣ / U+2D23 ; u ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER WE
+ⴖ / U+2D16 ; n ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER GHAN
+ყ / U+10E7 ; g ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER QAR
+ⴗ / U+2D17 ; u ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER QAR
+ⴘ / U+2D18 ; y ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER SHIN
+ჩ / U+10E9 ; b ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CHIN
+ⴙ / U+2D19 ; h ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CHIN
+ც / U+10EA ; b ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CAN
+ⴚ / U+2D1A ; n ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CAN
+ძ / U+10EB ; d ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER JIL
+ⴛ / U+2D1B ; d ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER JIL
+ⴜ / U+2D1C ; m ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CIL
+ჭ / U+10ED ; g ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CHAR
+ⴝ / U+2D1D ; 5 ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER CHAR
+ხ / U+10EE ; b ; https://www.iana.org/domains/idn-tables/tables/com_geor_1.2.txt ; GEORGIAN SMALL LETTER XAN
+ա / U+0561 ; w ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER AYB
+գ / U+0563 ; q ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER GIM
+դ / U+0564 ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER DA
+ե / U+0565 ; q ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER ECH
+զ / U+0566 ; q ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER ZA
+է / U+0567 ; t ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER EH
+ը / U+0568 ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER ET
+թ / U+0569 ; p ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER TO
+ժ / U+056A ; d ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER ZHE
+ի / U+056B ; h ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER INI
+լ / U+056C ; l ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER LIWN
+հ / U+0570 ; h ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER HO
+ղ / U+0572 ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER LAD
+յ / U+0575 ; j ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER YI
+ն / U+0576 ; u ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER NOW
+շ / U+0577 ; 2 ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER SHA
+ո / U+0578 ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER VO
+պ / U+057A ; w ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER PEH
+ջ / U+057B ; 8 ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER JHEH
+ռ / U+057C ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER RA
+ս / U+057D ; u ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER SEH
+վ / U+057E ; u ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER VEW
+ր / U+0580 ; n ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER REH
+ց / U+0581 ; g ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER CO
+ւ / U+0582 ; l ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER YIWN
+ք / U+0584 ; p ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER KEH
+օ / U+0585 ; o ; https://www.iana.org/domains/idn-tables/tables/com_armn_1.2.txt ; ARMENIAN SMALL LETTER OH
+ם / U+05DD ; o ; https://www.iana.org/domains/idn-tables/tables/com_hebr_1.2.txt ; HEBREW LETTER FINAL MEM
+ס / U+05E1 ; o ; https://www.iana.org/domains/idn-tables/tables/com_hebr_1.2.txt ; HEBREW LETTER SAMEKH
+آ / U+0622 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER MADDAH ON ALEF
+أ / U+0623 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER HAMZAH ON ALEF
+ٲ / U+0672 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER WAVY HAMZAH ON ALEF
+ٱ / U+0671 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER HAMZAT WASL ON ALEF
+إ / U+0625 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER HAMZAH UNDER ALEF
+ٳ / U+0673 ; i ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER WAVY HAMZAH UNDER ALEF
+ا / U+0627 ; l ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER ALEF
+ڵ / U+06B5 ; j ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER LAM WITH SMALL V
+ڶ / U+06B6 ; j ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER LAM WITH DOT ABOVE
+ڷ / U+06B7 ; j ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER LAM WITH THREE DOTS ABOVE
+ڸ / U+06B8 ; j ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER LAM WITH THREE DOTS BELOW
+ە / U+06D5 ; o ; https://www.iana.org/domains/idn-tables/tables/com_arab_1.2.txt ; ARABIC LETTER AE
+ܘ / U+0718 ; o ; https://www.iana.org/domains/idn-tables/tables/com_syrc_1.2.txt ; SYRIAC LETTER WAW
+ݍ / U+074D ; v ; https://www.iana.org/domains/idn-tables/tables/com_syrc_1.2.txt ; SYRIAC LETTER SOGDIAN ZHAIN
+ߊ / U+07CA ; l ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER A
+ߋ / U+07CB ; o ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER EE
+ߌ / U+07CC ; y ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER I
+ߎ / U+07CE ; u ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER U
+ߕ / U+07D5 ; b ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER TA
+ߙ / U+07D9 ; t ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER RA
+ߟ / U+07DF ; q ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER LA
+ߠ / U+07E0 ; t ; https://www.iana.org/domains/idn-tables/tables/com_nkoo_1.2.txt ; NKO LETTER NA WOLOSO
+ⴰ / U+2D30 ; o ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YA
+ⴸ / U+2D38 ; v ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YADH
+ⴹ / U+2D39 ; e ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YADD
+ⵊ / U+2D4A ; i ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAZH
+ⵎ / U+2D4E ; c ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAM
+ⵏ / U+2D4F ; l ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAN
+ⵑ / U+2D51 ; l ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER TUAREG YANG
+ⵔ / U+2D54 ; o ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAR
+ⵕ / U+2D55 ; q ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YARR
+ⵖ / U+2D56 ; y ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAGH
+ⵝ / U+2D5D ; x; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YATH
+ⵡ / U+2D61 ; u ; https://www.iana.org/domains/idn-tables/tables/com_tfng_1.2.txt ; TIFINAGH LETTER YAW
+ህ / U+1205 ; u ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE HE
+ዐ / U+12D0 ; o ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE PHARYNGEAL A
+ዑ / U+12D1 ; o ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE PHARYNGEAL U
+ይ / U+12ED ; e ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE YE
+ጠ / U+1320 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THA
+ጡ / U+1321 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THU
+ጢ / U+1322 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THI
+ጣ / U+1323 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THAA
+ጤ / U+1324 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THEE
+ጦ / U+1326 ; m ; https://www.iana.org/domains/idn-tables/tables/com_ethi_1.2.txt ; ETHIOPIC SYLLABLE THO
+ಽ / U+0CBD ; s ; https://www.iana.org/domains/idn-tables/tables/com_knda_1.2.txt ; KANNADA SIGN AVAGRAHA
+ട / U+0D1F ; s ; https://www.iana.org/domains/idn-tables/tables/com_mlym_1.2.txt ; MALAYALAM LETTER TTA
+ഠ / U+0D20 ; o ; https://www.iana.org/domains/idn-tables/tables/com_mlym_1.2.txt ; MALAYALAM LETTER TTHA
+ധ / U+0D27 ; w ; https://www.iana.org/domains/idn-tables/tables/com_mlym_1.2.txt ; MALAYALAM LETTER DHA
+ന / U+0D28 ; m ; https://www.iana.org/domains/idn-tables/tables/com_mlym_1.2.txt ; MALAYALAM LETTER NA
+ර / U+0DBB ; o ; https://www.iana.org/domains/idn-tables/tables/com_sinh_1.2.txt ; SINHALA LETTER RAYANNA
+ꢝ / U+A89D ; o ; https://www.iana.org/domains/idn-tables/tables/com_saur_1.2.txt ; SAURASHTRA LETTER TTHA
+ꢭ / U+A8AD ; m ; https://www.iana.org/domains/idn-tables/tables/com_saur_1.2.txt ; SAURASHTRA LETTER LA
+ꢳ / U+A8B3 ; m ; https://www.iana.org/domains/idn-tables/tables/com_saur_1.2.txt ; SAURASHTRA LETTER LLA
+𑀉 / U+11009 ; l ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER U
+𑀋 / U+1100B ; x ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER VOCALIC R
+𑀌 / U+1100C ; x ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER VOCALIC RR
+𑀗 / U+11017 ; c ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER NGA
+𑀘 / U+11018 ; s ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER CA
+
+
+𑀚 / U+1101A ; e ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER JA
+𑀝 / U+1101D ; c ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER TTA
+𑀞 / U+1101E ; o ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER TTHA
+𑀡 / U+11021 ; i ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER NNA
+𑀥 / U+11025 ; d ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER DHA
+𑀨 / U+11028 ; b ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER PHA
+𑀩 / U+11029 ; o ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER BA
+𑀭 / U+1102D ; l ; https://www.iana.org/domains/idn-tables/tables/com_brah_1.2.txt ; BRAHMI LETTER RA
+น / U+0E19 ; u ; https://www.iana.org/domains/idn-tables/tables/com_thai_1.2.txt ; THAI LETTER NO NU
+บ / U+0E1A ; u ; https://www.iana.org/domains/idn-tables/tables/com_thai_1.2.txt ; THAI LETTER BO BAIMAI
+ป / U+0E1B ; u ; https://www.iana.org/domains/idn-tables/tables/com_thai_1.2.txt ; THAI LETTER PO PLA
+ᥑ / U+1951 ; a ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER XA
+ᥒ / U+1952 ; n ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER NGA
+ᥓ / U+1953 ; u ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER TSA
+ᥔ / U+1954 ; u ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER SA
+ᥕ / U+1955 ; w ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER YA
+ᥙ / U+1959 ; u ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER PA
+ᥝ / U+195D ; o ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER VA
+ᥣ / U+1963 ; l ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER A
+ᥧ / U+1967 ; l ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER U
+ᥨ / U+1968 ; l ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER OO
+ᥩ / U+1969 ; u ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER O
+ᥱ / U+1971 ; e ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER TONE-3
+ᥲ / U+1972 ; q ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER TONE-4
+ᥴ / U+1974 ; c ; https://www.iana.org/domains/idn-tables/tables/com_tale_1.2.txt ; TAI LE LETTER TONE-6
+Ꭰ / U+13A0 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER A
+Ꭱ / U+13A1 ; r ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER E
+Ꭲ / U+13A2 ; t ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER I
+Ꭴ / U+13A4 ; o ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER U
+Ꭵ / U+13A5 ; i ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER V
+Ꭹ / U+13A9 ; y ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER GI
+Ꭺ / U+13AA ; a ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER GO
+Ꭻ / U+13AB ; j ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER GU
+Ꭼ / U+13AC ; e ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER GV
+Ꮃ / U+13B3 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER LA
+
+Ꮅ / U+13B5 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER LI
+Ꮆ / U+13B6 ; g ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER LO
+Ꮇ / U+13B7 ; ù ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER LU
+Ꮋ / U+13BB ; h ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER MI
+Ꮍ / U+13BD ; y ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER MU
+Ꮎ / U+13BE ; o ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER NA
+
+Ꮐ / U+13C0 ; g ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER NAH
+
+Ꮒ / U+13C2 ; h ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER NI
+Ꮓ / U+13C3 ; z ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER NO
+Ꮕ / U+13C5 ; o ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER NV
+Ꮖ / U+13C6 ; i ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER QUA
+Ꮗ / U+13C7 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER QUE
+
+Ꮞ / U+13CE ; 4 ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER SE
+Ꮟ / U+13CF ; b ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER SI
+Ꮢ / U+13D2 ; r ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER SV
+Ꮤ / U+13D4 ; w ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TA
+
+
+Ꮩ / U+13D9 ; v ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER DO
+Ꮪ / U+13DA ; s ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER DU
+
+Ꮮ / U+13DE ; l ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TLE
+Ꮯ / U+13DF ; c ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TLI
+Ꮲ / U+13E2 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TLV
+Ꮳ / U+13E3 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TSA
+Ꮴ / U+13E4 ; v ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TSE
+Ꮶ / U+13E6 ; k ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TSO
+Ꮷ / U+13E7 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER TSU
+
+
+
+
+
+Ᏺ / U+13F2 ; r ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER YO
+Ᏻ / U+13F3 ; g ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER YU
+Ᏼ / U+13F4 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cher_1.2.txt ; CHEROKEE LETTER YV
+
+ᑌ / U+144C ; u ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS TE
+ᑡ / U+1461 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS TWA
+ᑢ / U+1462 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE TWA
+ᑣ / U+1463 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS TWAA
+ᑤ / U+1464 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE TWAA
+ᑥ / U+1465 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS NASKAPI TWAA
+ᑦ / U+1466 ; c ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS T
+ᑧ / U+1467 ; u ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS TTE
+
+ᑫ / U+146B ; q ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KE
+ᑬ / U+146C ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KAAI
+ᑭ / U+146D ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KI
+ᑮ / U+146E ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KII
+ᑯ / U+146F ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KO
+ᑰ / U+1470 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KOO
+ᑱ / U+1471 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS Y-CREE KOO
+ᑲ / U+1472 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KA
+ᑳ / U+1473 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KAA
+ᑴ / U+1474 ; q ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWE
+ᑵ / U+1475 ; q ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWE
+ᑶ / U+1476 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWI
+ᑷ / U+1477 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWI
+ᑸ / U+1478 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWII
+ᑹ / U+1479 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWII
+ᑺ / U+147A ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWO
+ᑻ / U+147B ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWO
+ᑼ / U+147C ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWOO
+ᑽ / U+147D ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWOO
+ᑾ / U+147E ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWA
+ᑿ / U+147F ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWA
+ᒀ / U+1480 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS KWAA
+ᒁ / U+1481 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE KWAA
+ᒂ / U+1482 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS NASKAPI KWAA
+
+
+ᒅ / U+1485 ; q ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS SOUTH-SLAVEY KEH
+ᒆ / U+1486 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS SOUTH-SLAVEY KIH
+ᒇ / U+1487 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS SOUTH-SLAVEY KOH
+ᒈ / U+1488 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS SOUTH-SLAVEY KAH
+ᒍ / U+148D ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CO
+ᒎ / U+148E ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS COO
+ᒏ / U+148F ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS Y-CREE COO
+
+
+ᒘ / U+1498 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CWO
+ᒙ / U+1499 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE CWO
+ᒚ / U+149A ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CWOO
+ᒛ / U+149B ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE CWOO
+ᒜ / U+149C ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CWA
+ᒝ / U+149D ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE CWA
+ᒞ / U+149E ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CWAA
+ᒟ / U+149F ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE CWAA
+ᒠ / U+14A0 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS NASKAPI CWAA
+
+
+ᒧ / U+14A7 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MO
+ᒨ / U+14A8 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MOO
+ᒩ / U+14A9 ; j ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS Y-CREE MOO
+ᒪ / U+14AA ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MA
+ᒫ / U+14AB ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MAA
+
+ᒶ / U+14B6 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MWA
+ᒷ / U+14B7 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE MWA
+ᒸ / U+14B8 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS MWAA
+ᒹ / U+14B9 ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE MWAA
+ᒺ / U+14BA ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS NASKAPI MWAA
+ᒻ / U+14BB ; l ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS M
+
+
+ᖇ / U+1587 ; r ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS TLHI
+ᕼ / U+157C ; h ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS NUNAVUT H
+ᖯ / U+15AF ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS AIVILIK B
+ᖰ / U+15B0 ; p ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS BLACKFOOT E
+ᖱ / U+15B1 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS BLACKFOOT I
+ᖲ / U+15B2 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS BLACKFOOT O
+ᖳ / U+15B3 ; q ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS BLACKFOOT A
+ᗅ / U+15C5 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GHO
+ᗋ / U+15CB ; a ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER RO
+ᗩ / U+15E9 ; a ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER PO
+ᗪ / U+15EA ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER PE
+ᗫ / U+15EB ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER PEE
+ᗬ / U+15EC ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER PI
+ᗯ / U+15EF ; w ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GU
+ᗰ / U+15F0 ; m ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GO
+ᗴ / U+15F4 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GA
+ᗷ / U+15F7 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER KHE
+ᗸ / U+15F8 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER KHEE
+ᗹ / U+15F9 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER KHI
+ᘤ / U+1624 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER LE
+ᘥ / U+1625 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER LEE
+ᘦ / U+1626 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER LI
+ᘿ / U+163F ; e ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER TLA
+ᙀ / U+1640 ; u ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER ZU
+ᙃ / U+1643 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER ZEE
+ᙏ / U+164F ; m ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER SO
+ᣡ / U+18E1 ; b ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE LOO
+ᣢ / U+18E2 ; d ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS WEST-CREE LAA
+ᣭ / U+18ED ; w ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GWU
+ᣯ / U+18EF ; e ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GAA
+ᣰ / U+18F0 ; e ; https://www.iana.org/domains/idn-tables/tables/com_cans_1.2.txt ; CANADIAN SYLLABICS CARRIER GWA
+ㄐ / U+3110 ; u ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER J
+ㄒ / U+3112 ; t ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER X
+ㄕ / U+3115 ; p ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER SH
+ㄖ / U+3116 ; o ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER R
+ㄗ / U+3117 ; p ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER Z
+ㆡ / U+31A1 ; p ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER ZI
+ㆸ / U+31B8 ; z ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER GH
+ㆹ / U+31B9 ; l ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER LH
+ㄚ / U+311A ; y ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER A
+ㄩ / U+3129 ; u ; https://www.iana.org/domains/idn-tables/tables/com_bopo_1.2.txt ; BOPOMOFO LETTER IU
+ꓐ / U+A4D0 ; b ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER BA
+ꓑ / U+A4D1 ; p ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER PA
+ꓒ / U+A4D2 ; d ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER PHA
+ꓓ / U+A4D3 ; d ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER DA
+ꓔ / U+A4D4 ; t ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER TA
+ꓖ / U+A4D6 ; g ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER GA
+ꓗ / U+A4D7 ; k ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER KA
+ꓙ / U+A4D9 ; j ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER JA
+ꓚ / U+A4DA ; c ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER CA
+ꓜ / U+A4DC ; z ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER DZA
+ꓝ / U+A4DD ; f ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER TSA
+ꓡ / U+A4E1 ; l ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER LA
+ꓢ / U+A4E2 ; s ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER SA
+ꓣ / U+A4E3 ; r ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER ZHA
+ꓦ / U+A4E6 ; v ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER HA
+ꓧ / U+A4E7 ; h ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER XA
+ꓫ / U+A4EB ; x ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER SHA
+ꓪ / U+A4EA ; w ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER WA
+ꓬ / U+A4EC ; y ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER YA
+ꓮ / U+A4EE ; a ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER A
+ꓰ / U+A4F0 ; e ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER E
+𐊆 / U+10286 ; e ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER I
+ꓲ / U+A4F2 ; l ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER I
+ꓴ / U+A4F4 ; u ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER U
+𐊂 / U+10282 ; b ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER B
+𐊇 / U+10287 ; f ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER W
+𐊈 / U+10288 ; i ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER Z
+𐊉 / U+10289 ; x ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER TH
+𐊊 / U+1028A ; l ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER J
+𐊋 / U+1028B ; k ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER K
+𐊎 / U+1028E ; m ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER M
+ꓟ / U+A4DF ; m ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER MA
+ꓠ / U+A4E0 ; n ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER NA
+𐊏 / U+1028F ; n ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER N
+𐊐 / U+10290 ; x ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER MM
+ꓳ / U+A4F3 ; o ; https://www.iana.org/domains/idn-tables/tables/com_lisu_1.2.txt ; LISU LETTER O
+𐊒 / U+10292 ; o ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER U
+𐊕 / U+10295 ; p ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER R
+𐊖 / U+10296 ; s ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER S
+𐊗 / U+10297 ; t ; https://www.iana.org/domains/idn-tables/tables/com_lyci_1.2.txt ; LYCIAN LETTER T

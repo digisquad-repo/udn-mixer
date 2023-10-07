@@ -52,6 +52,7 @@ fi
                 }
             )' |
         jq -c ".[]" |
+		jq -c '. |  select(.actual_char != .latin_char and .actual_char != "" and .latin_char != "" and .actual_char != null and .latin_char != null)' |
         sed 's/Latin\\tLATIN/LATIN/g'
 )
 

@@ -1,6 +1,4 @@
 {"actual_char":"ー","unicode":"U+30FC","latin_char":"-","description":"KATAKANA-HIRAGANA PROLONGED SOUND MARK"}
-{"actual_char":"a","unicode":"U+0061","latin_char":"a","description":"LATIN SMALL LETTER A"}
-{"actual_char":"a","unicode":"U+0061","latin_char":"a","description":"LATIN SMALL LETTER A"}
 {"actual_char":"à","unicode":"U+00E0","latin_char":"a","description":"LATIN SMALL LETTER A GRAVE"}
 {"actual_char":"á","unicode":"U+00E1","latin_char":"a","description":"LATIN SMALL LETTER A ACUTE"}
 {"actual_char":"â","unicode":"U+00E2","latin_char":"a","description":"LATIN SMALL LETTER A CIRCUMFLEX"}
@@ -35,8 +33,6 @@
 {"actual_char":"ⱥ","unicode":"U+2C65","latin_char":"a","description":"LATIN SMALL LETTER A WITH STROKE"}
 {"actual_char":"ᶏ","unicode":"U+1D8F","latin_char":"a","description":"LATIN SMALL LETTER A WITH RETROFLEX HOOK"}
 {"actual_char":"ᶐ","unicode":"U+1D90","latin_char":"a","description":"LATIN SMALL LETTER ALPHA WITH RETROFLEX HOOK"}
-{"actual_char":"b","unicode":"U+0062","latin_char":"b","description":"LATIN SMALL LETTER B"}
-{"actual_char":"b","unicode":"U+0062","latin_char":"b","description":"LATIN SMALL LETTER B"}
 {"actual_char":"ḃ","unicode":"U+1E03","latin_char":"b","description":"LATIN SMALL LETTER B WITH DOT ABOVE"}
 {"actual_char":"ḅ","unicode":"U+1E05","latin_char":"b","description":"LATIN SMALL LETTER B WITH DOT BELOW"}
 {"actual_char":"ḇ","unicode":"U+1E07","latin_char":"b","description":"LATIN SMALL LETTER B WITH LINE BELOW"}
@@ -47,8 +43,6 @@
 {"actual_char":"ᵬ","unicode":"U+1D6C","latin_char":"b","description":"LATIN SMALL LETTER B WITH MIDDLE TILDE"}
 {"actual_char":"ᶀ","unicode":"U+1D80","latin_char":"b","description":"LATIN SMALL LETTER B WITH PALATAL HOOK"}
 {"actual_char":"ɓ","unicode":"U+0253","latin_char":"b","description":"LATIN SMALL LETTER B HOOK"}
-{"actual_char":"c","unicode":"U+0063","latin_char":"c","description":"LATIN SMALL LETTER C"}
-{"actual_char":"c","unicode":"U+0063","latin_char":"c","description":"LATIN SMALL LETTER C"}
 {"actual_char":"ç","unicode":"U+00E7","latin_char":"c","description":"LATIN SMALL LETTER C CEDILLA"}
 {"actual_char":"ć","unicode":"U+0107","latin_char":"c","description":"LATIN SMALL LETTER C ACUTE"}
 {"actual_char":"ć","unicode":"U+0107","latin_char":"c","description":"LATIN SMALL LETTER C ACUTE"}
@@ -60,8 +54,6 @@
 {"actual_char":"ȼ","unicode":"U+023C","latin_char":"e","description":"LATIN SMALL LETTER C WITH STROKE"}
 {"actual_char":"ƈ","unicode":"U+0188","latin_char":"c","description":"LATIN SMALL LETTER C HOOK"}
 {"actual_char":"ɕ","unicode":"U+0255","latin_char":"c","description":"LATIN SMALL LETTER C CURL"}
-{"actual_char":"d","unicode":"U+0064","latin_char":"d","description":"LATIN SMALL LETTER D"}
-{"actual_char":"d","unicode":"U+0064","latin_char":"d","description":"LATIN SMALL LETTER D"}
 {"actual_char":"ð","unicode":"U+00F0","latin_char":"d","description":"LATIN SMALL LETTER ETH"}
 {"actual_char":"ď","unicode":"U+010F","latin_char":"d","description":"LATIN SMALL LETTER D HACEK"}
 {"actual_char":"đ","unicode":"U+0111","latin_char":"d","description":"LATIN SMALL LETTER D BAR"}
@@ -81,8 +73,6 @@
 {"actual_char":"ƌ","unicode":"U+018C","latin_char":"d","description":"LATIN SMALL LETTER D TOPBAR"}
 {"actual_char":"ȡ","unicode":"U+0221","latin_char":"d","description":"LATIN SMALL LETTER D WITH CURL"}
 {"actual_char":"ꝱ","unicode":"U+A771","latin_char":"d","description":"LATIN SMALL LETTER DUM"}
-{"actual_char":"e","unicode":"U+0065","latin_char":"e","description":"LATIN SMALL LETTER E"}
-{"actual_char":"e","unicode":"U+0065","latin_char":"e","description":"LATIN SMALL LETTER E"}
 {"actual_char":"è","unicode":"U+00E8","latin_char":"e","description":"LATIN SMALL LETTER E GRAVE"}
 {"actual_char":"é","unicode":"U+00E9","latin_char":"e","description":"LATIN SMALL LETTER E ACUTE"}
 {"actual_char":"ê","unicode":"U+00EA","latin_char":"e","description":"LATIN SMALL LETTER E CIRCUMFLEX"}
@@ -117,13 +107,9 @@
 {"actual_char":"ᶓ","unicode":"U+1D93","latin_char":"e","description":"LATIN SMALL LETTER OPEN E WITH RETROFLEX HOOK"}
 {"actual_char":"ɜ","unicode":"U+025C","latin_char":"3","description":"LATIN SMALL LETTER REVERSED EPSILON"}
 {"actual_char":"ᴈ","unicode":"U+1D08","latin_char":"3","description":"LATIN SMALL LETTER TURNED OPEN E"}
-{"actual_char":"f","unicode":"U+0066","latin_char":"f","description":"LATIN SMALL LETTER F"}
-{"actual_char":"f","unicode":"U+0066","latin_char":"f","description":"LATIN SMALL LETTER F"}
 {"actual_char":"ḟ","unicode":"U+1E1F","latin_char":"f","description":"LATIN SMALL LETTER F WITH DOT ABOVE"}
 {"actual_char":"ꜰ","unicode":"U+A730","latin_char":"f","description":"LATIN LETTER SMALL CAPITAL F"}
 {"actual_char":"ƒ","unicode":"U+0192","latin_char":"f","description":"LATIN SMALL LETTER SCRIPT F"}
-{"actual_char":"g","unicode":"U+0067","latin_char":"g","description":"LATIN SMALL LETTER G"}
-{"actual_char":"g","unicode":"U+0067","latin_char":"g","description":"LATIN SMALL LETTER G"}
 {"actual_char":"ĝ","unicode":"U+011D","latin_char":"g","description":"LATIN SMALL LETTER G CIRCUMFLEX"}
 {"actual_char":"ğ","unicode":"U+011F","latin_char":"g","description":"LATIN SMALL LETTER G BREVE"}
 {"actual_char":"ġ","unicode":"U+0121","latin_char":"g","description":"LATIN SMALL LETTER G DOT"}
@@ -137,8 +123,6 @@
 {"actual_char":"ᶃ","unicode":"U+1D83","latin_char":"g","description":"LATIN SMALL LETTER G WITH PALATAL HOOK"}
 {"actual_char":"ɠ","unicode":"U+0260","latin_char":"g","description":"LATIN SMALL LETTER G HOOK"}
 {"actual_char":"ʛ","unicode":"U+029B","latin_char":"g","description":"LATIN LETTER SMALL CAPITAL G HOOK"}
-{"actual_char":"h","unicode":"U+0068","latin_char":"h","description":"LATIN SMALL LETTER H"}
-{"actual_char":"h","unicode":"U+0068","latin_char":"h","description":"LATIN SMALL LETTER H"}
 {"actual_char":"ĥ","unicode":"U+0125","latin_char":"h","description":"LATIN SMALL LETTER H CIRCUMFLEX"}
 {"actual_char":"ħ","unicode":"U+0127","latin_char":"h","description":"LATIN SMALL LETTER H BAR"}
 {"actual_char":"ȟ","unicode":"U+021F","latin_char":"h","description":"LATIN SMALL LETTER H WITH CARON"}
@@ -154,8 +138,6 @@
 {"actual_char":"ⱨ","unicode":"U+2C68","latin_char":"h","description":"LATIN SMALL LETTER H WITH DESCENDER"}
 {"actual_char":"ꜧ","unicode":"U+A727","latin_char":"h","description":"LATIN SMALL LETTER HENG"}
 {"actual_char":"ɧ","unicode":"U+0267","latin_char":"h","description":"LATIN SMALL LETTER HENG HOOK"}
-{"actual_char":"i","unicode":"U+0069","latin_char":"i","description":"LATIN SMALL LETTER I"}
-{"actual_char":"i","unicode":"U+0069","latin_char":"i","description":"LATIN SMALL LETTER I"}
 {"actual_char":"ì","unicode":"U+00EC","latin_char":"i","description":"LATIN SMALL LETTER I GRAVE"}
 {"actual_char":"í","unicode":"U+00ED","latin_char":"i","description":"LATIN SMALL LETTER I ACUTE"}
 {"actual_char":"î","unicode":"U+00EE","latin_char":"i","description":"LATIN SMALL LETTER I CIRCUMFLEX"}
@@ -173,16 +155,12 @@
 {"actual_char":"ị","unicode":"U+1ECB","latin_char":"i","description":"LATIN SMALL LETTER I WITH DOT BELOW"}
 {"actual_char":"ı","unicode":"U+0131","latin_char":"i","description":"LATIN SMALL LETTER DOTLESS I"}
 {"actual_char":"ɪ","unicode":"U+026A","latin_char":"i","description":"LATIN LETTER SMALL CAPITAL I"}
-{"actual_char":"j","unicode":"U+006A","latin_char":"j","description":"LATIN SMALL LETTER J"}
-{"actual_char":"j","unicode":"U+006A","latin_char":"j","description":"LATIN SMALL LETTER J"}
 {"actual_char":"ĵ","unicode":"U+0135","latin_char":"j","description":"LATIN SMALL LETTER J CIRCUMFLEX"}
 {"actual_char":"ǰ","unicode":"U+01F0","latin_char":"j","description":"LATIN SMALL LETTER J HACEK"}
 {"actual_char":"ȷ","unicode":"U+0237","latin_char":"j","description":"LATIN SMALL LETTER DOTLESS J"}
 {"actual_char":"ᴊ","unicode":"U+1D0A","latin_char":"j","description":"LATIN LETTER SMALL CAPITAL J"}
 {"actual_char":"ɉ","unicode":"U+0249","latin_char":"j","description":"LATIN SMALL LETTER J WITH STROKE"}
 {"actual_char":"ʝ","unicode":"U+029D","latin_char":"j","description":"LATIN SMALL LETTER CROSSED-TAIL J"}
-{"actual_char":"k","unicode":"U+006B","latin_char":"k","description":"LATIN SMALL LETTER K"}
-{"actual_char":"k","unicode":"U+006B","latin_char":"k","description":"LATIN SMALL LETTER K"}
 {"actual_char":"ķ","unicode":"U+0137","latin_char":"k","description":"LATIN SMALL LETTER K CEDILLA"}
 {"actual_char":"ǩ","unicode":"U+01E9","latin_char":"k","description":"LATIN SMALL LETTER K HACEK"}
 {"actual_char":"ḱ","unicode":"U+1E31","latin_char":"k","description":"LATIN SMALL LETTER K WITH ACUTE"}
@@ -196,8 +174,6 @@
 {"actual_char":"ꝁ","unicode":"U+A741","latin_char":"k","description":"LATIN SMALL LETTER K WITH STROKE"}
 {"actual_char":"ꝃ","unicode":"U+A743","latin_char":"k","description":"LATIN SMALL LETTER K WITH DIAGONAL STROKE"}
 {"actual_char":"ꝅ","unicode":"U+A745","latin_char":"k","description":"LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE"}
-{"actual_char":"l","unicode":"U+006C","latin_char":"l","description":"LATIN SMALL LETTER L"}
-{"actual_char":"l","unicode":"U+006C","latin_char":"l","description":"LATIN SMALL LETTER L"}
 {"actual_char":"ĺ","unicode":"U+013A","latin_char":"l","description":"LATIN SMALL LETTER L ACUTE"}
 {"actual_char":"ļ","unicode":"U+013C","latin_char":"l","description":"LATIN SMALL LETTER L CEDILLA"}
 {"actual_char":"ľ","unicode":"U+013E","latin_char":"l","description":"LATIN SMALL LETTER L HACEK"}
@@ -214,8 +190,6 @@
 {"actual_char":"ꞎ","unicode":"U+A78E","latin_char":"l","description":"LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT"}
 {"actual_char":"ȴ","unicode":"U+0234","latin_char":"l","description":"LATIN SMALL LETTER L WITH CURL"}
 {"actual_char":"ꞁ","unicode":"U+A781","latin_char":"l","description":"LATIN SMALL LETTER TURNED L"}
-{"actual_char":"m","unicode":"U+006D","latin_char":"m","description":"LATIN SMALL LETTER M"}
-{"actual_char":"m","unicode":"U+006D","latin_char":"m","description":"LATIN SMALL LETTER M"}
 {"actual_char":"ḿ","unicode":"U+1E3F","latin_char":"m","description":"LATIN SMALL LETTER M WITH ACUTE"}
 {"actual_char":"ṁ","unicode":"U+1E41","latin_char":"m","description":"LATIN SMALL LETTER M WITH DOT ABOVE"}
 {"actual_char":"ṃ","unicode":"U+1E43","latin_char":"m","description":"LATIN SMALL LETTER M WITH DOT BELOW"}
@@ -225,8 +199,6 @@
 {"actual_char":"ɱ","unicode":"U+0271","latin_char":"m","description":"LATIN SMALL LETTER M HOOK"}
 {"actual_char":"ꟽ","unicode":"U+A7FD","latin_char":"w","description":"LATIN EPIGRAPHIC LETTER INVERTED M"}
 {"actual_char":"ꝳ","unicode":"U+A773","latin_char":"m","description":"LATIN SMALL LETTER MUM"}
-{"actual_char":"n","unicode":"U+006E","latin_char":"n","description":"LATIN SMALL LETTER N"}
-{"actual_char":"n","unicode":"U+006E","latin_char":"n","description":"LATIN SMALL LETTER N"}
 {"actual_char":"ñ","unicode":"U+00F1","latin_char":"n","description":"LATIN SMALL LETTER N TILDE"}
 {"actual_char":"ń","unicode":"U+0144","latin_char":"n","description":"LATIN SMALL LETTER N ACUTE"}
 {"actual_char":"ń","unicode":"U+0144","latin_char":"n","description":"LATIN SMALL LETTER N ACUTE"}
@@ -247,8 +219,6 @@
 {"actual_char":"ȵ","unicode":"U+0235","latin_char":"n","description":"LATIN SMALL LETTER N WITH CURL"}
 {"actual_char":"ꝴ","unicode":"U+A774","latin_char":"n","description":"LATIN SMALL LETTER NUM"}
 {"actual_char":"ŋ","unicode":"U+014B","latin_char":"n","description":"LATIN SMALL LETTER ENG"}
-{"actual_char":"o","unicode":"U+006F","latin_char":"o","description":"LATIN SMALL LETTER O"}
-{"actual_char":"o","unicode":"U+006F","latin_char":"o","description":"LATIN SMALL LETTER O"}
 {"actual_char":"ò","unicode":"U+00F2","latin_char":"o","description":"LATIN SMALL LETTER O GRAVE"}
 {"actual_char":"ó","unicode":"U+00F3","latin_char":"o","description":"LATIN SMALL LETTER O ACUTE"}
 {"actual_char":"ó","unicode":"U+00F3","latin_char":"o","description":"LATIN SMALL LETTER O ACUTE"}
@@ -290,8 +260,6 @@
 {"actual_char":"ᴑ","unicode":"U+1D11","latin_char":"o","description":"LATIN SMALL LETTER SIDEWAYS O"}
 {"actual_char":"ȣ","unicode":"U+0223","latin_char":"8","description":"LATIN SMALL LETTER OU"}
 {"actual_char":"ᴕ","unicode":"U+1D15","latin_char":"8","description":"LATIN LETTER SMALL CAPITAL OU"}
-{"actual_char":"p","unicode":"U+0070","latin_char":"p","description":"LATIN SMALL LETTER P"}
-{"actual_char":"p","unicode":"U+0070","latin_char":"p","description":"LATIN SMALL LETTER P"}
 {"actual_char":"ṕ","unicode":"U+1E55","latin_char":"p","description":"LATIN SMALL LETTER P WITH ACUTE"}
 {"actual_char":"ṗ","unicode":"U+1E57","latin_char":"p","description":"LATIN SMALL LETTER P WITH DOT ABOVE"}
 {"actual_char":"ᴘ","unicode":"U+1D18","latin_char":"p","description":"LATIN LETTER SMALL CAPITAL P"}
@@ -299,13 +267,9 @@
 {"actual_char":"ꝑ","unicode":"U+A751","latin_char":"p","description":"LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"}
 {"actual_char":"ᵱ","unicode":"U+1D71","latin_char":"p","description":"LATIN SMALL LETTER P WITH MIDDLE TILDE"}
 {"actual_char":"ᶈ","unicode":"U+1D88","latin_char":"p","description":"LATIN SMALL LETTER P WITH PALATAL HOOK"}
-{"actual_char":"q","unicode":"U+0071","latin_char":"q","description":"LATIN SMALL LETTER Q"}
-{"actual_char":"q","unicode":"U+0071","latin_char":"q","description":"LATIN SMALL LETTER Q"}
 {"actual_char":"ꝗ","unicode":"U+A757","latin_char":"q","description":"LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER"}
 {"actual_char":"ɋ","unicode":"U+024B","latin_char":"q","description":"LATIN SMALL LETTER Q WITH HOOK TAIL"}
 {"actual_char":"ĸ","unicode":"U+0138","latin_char":"k","description":"LATIN SMALL LETTER KRA"}
-{"actual_char":"r","unicode":"U+0072","latin_char":"r","description":"LATIN SMALL LETTER R"}
-{"actual_char":"r","unicode":"U+0072","latin_char":"r","description":"LATIN SMALL LETTER R"}
 {"actual_char":"ŕ","unicode":"U+0155","latin_char":"r","description":"LATIN SMALL LETTER R ACUTE"}
 {"actual_char":"ŗ","unicode":"U+0157","latin_char":"r","description":"LATIN SMALL LETTER R CEDILLA"}
 {"actual_char":"ř","unicode":"U+0159","latin_char":"r","description":"LATIN SMALL LETTER R HACEK"}
@@ -318,8 +282,6 @@
 {"actual_char":"ʀ","unicode":"U+0280","latin_char":"r","description":"LATIN LETTER SMALL CAPITAL R"}
 {"actual_char":"ꝛ","unicode":"U+A75B","latin_char":"2","description":"LATIN SMALL LETTER R ROTUNDA"}
 {"actual_char":"ß","unicode":"U+00DF","latin_char":"b","description":"LATIN SMALL LETTER SHARP S"}
-{"actual_char":"s","unicode":"U+0073","latin_char":"s","description":"LATIN SMALL LETTER S"}
-{"actual_char":"s","unicode":"U+0073","latin_char":"s","description":"LATIN SMALL LETTER S"}
 {"actual_char":"ś","unicode":"U+015B","latin_char":"s","description":"LATIN SMALL LETTER S ACUTE"}
 {"actual_char":"ś","unicode":"U+015B","latin_char":"s","description":"LATIN SMALL LETTER S ACUTE"}
 {"actual_char":"ŝ","unicode":"U+015D","latin_char":"s","description":"LATIN SMALL LETTER S CIRCUMFLEX"}
@@ -334,8 +296,6 @@
 {"actual_char":"ꞅ","unicode":"U+A785","latin_char":"r","description":"LATIN SMALL LETTER INSULAR S"}
 {"actual_char":"ꜱ","unicode":"U+A731","latin_char":"s","description":"LATIN LETTER SMALL CAPITAL S"}
 {"actual_char":"ᵴ","unicode":"U+1D74","latin_char":"s","description":"LATIN SMALL LETTER S WITH MIDDLE TILDE"}
-{"actual_char":"t","unicode":"U+0074","latin_char":"t","description":"LATIN SMALL LETTER T"}
-{"actual_char":"t","unicode":"U+0074","latin_char":"t","description":"LATIN SMALL LETTER T"}
 {"actual_char":"ţ","unicode":"U+0163","latin_char":"t","description":"LATIN SMALL LETTER T CEDILLA"}
 {"actual_char":"ť","unicode":"U+0165","latin_char":"t","description":"LATIN SMALL LETTER T HACEK"}
 {"actual_char":"ț","unicode":"U+021B","latin_char":"t","description":"LATIN SMALL LETTER T WITH COMMA BELOW"}
@@ -349,8 +309,6 @@
 {"actual_char":"ƭ","unicode":"U+01AD","latin_char":"t","description":"LATIN SMALL LETTER T HOOK"}
 {"actual_char":"ʈ","unicode":"U+0288","latin_char":"t","description":"LATIN SMALL LETTER T RETROFLEX HOOK"}
 {"actual_char":"ȶ","unicode":"U+0236","latin_char":"t","description":"LATIN SMALL LETTER T WITH CURL"}
-{"actual_char":"u","unicode":"U+0075","latin_char":"u","description":"LATIN SMALL LETTER U"}
-{"actual_char":"u","unicode":"U+0075","latin_char":"u","description":"LATIN SMALL LETTER U"}
 {"actual_char":"ù","unicode":"U+00F9","latin_char":"u","description":"LATIN SMALL LETTER U GRAVE"}
 {"actual_char":"ú","unicode":"U+00FA","latin_char":"u","description":"LATIN SMALL LETTER U ACUTE"}
 {"actual_char":"û","unicode":"U+00FB","latin_char":"u","description":"LATIN SMALL LETTER U CIRCUMFLEX"}
@@ -384,8 +342,6 @@
 {"actual_char":"ᴜ","unicode":"U+1D1C","latin_char":"u","description":"LATIN LETTER SMALL CAPITAL U"}
 {"actual_char":"ɯ","unicode":"U+026F","latin_char":"w","description":"LATIN SMALL LETTER TURNED M"}
 {"actual_char":"ꟺ","unicode":"U+A7FA","latin_char":"w","description":"LATIN LETTER SMALL CAPITAL TURNED M"}
-{"actual_char":"v","unicode":"U+0076","latin_char":"v","description":"LATIN SMALL LETTER V"}
-{"actual_char":"v","unicode":"U+0076","latin_char":"v","description":"LATIN SMALL LETTER V"}
 {"actual_char":"ṽ","unicode":"U+1E7D","latin_char":"v","description":"LATIN SMALL LETTER V WITH TILDE"}
 {"actual_char":"ṿ","unicode":"U+1E7F","latin_char":"v","description":"LATIN SMALL LETTER V WITH DOT BELOW"}
 {"actual_char":"ꝡ","unicode":"U+A761","latin_char":"w","description":"LATIN SMALL LETTER VY"}
@@ -396,8 +352,6 @@
 {"actual_char":"ⱱ","unicode":"U+2C71","latin_char":"v","description":"LATIN SMALL LETTER V WITH RIGHT HOOK"}
 {"actual_char":"ⱴ","unicode":"U+2C74","latin_char":"v","description":"LATIN SMALL LETTER V WITH CURL"}
 {"actual_char":"ỽ","unicode":"U+1EFD","latin_char":"6","description":"LATIN SMALL LETTER MIDDLE-WELSH V"}
-{"actual_char":"w","unicode":"U+0077","latin_char":"w","description":"LATIN SMALL LETTER W"}
-{"actual_char":"w","unicode":"U+0077","latin_char":"w","description":"LATIN SMALL LETTER W"}
 {"actual_char":"ŵ","unicode":"U+0175","latin_char":"w","description":"LATIN SMALL LETTER W CIRCUMFLEX"}
 {"actual_char":"ẁ","unicode":"U+1E81","latin_char":"w","description":"LATIN SMALL LETTER W WITH GRAVE"}
 {"actual_char":"ẃ","unicode":"U+1E83","latin_char":"w","description":"LATIN SMALL LETTER W WITH ACUTE"}
@@ -408,13 +362,9 @@
 {"actual_char":"ᴡ","unicode":"U+1D21","latin_char":"w","description":"LATIN LETTER SMALL CAPITAL W"}
 {"actual_char":"ⱳ","unicode":"U+2C73","latin_char":"w","description":"LATIN SMALL LETTER W WITH HOOK"}
 {"actual_char":"ʍ","unicode":"U+028D","latin_char":"m","description":"LATIN SMALL LETTER TURNED W"}
-{"actual_char":"x","unicode":"U+0078","latin_char":"x","description":"LATIN SMALL LETTER X"}
-{"actual_char":"x","unicode":"U+0078","latin_char":"x","description":"LATIN SMALL LETTER X"}
 {"actual_char":"ẋ","unicode":"U+1E8B","latin_char":"x","description":"LATIN SMALL LETTER X WITH DOT ABOVE"}
 {"actual_char":"ẍ","unicode":"U+1E8D","latin_char":"x","description":"LATIN SMALL LETTER X WITH DIAERESIS"}
 {"actual_char":"ᶍ","unicode":"U+1D8D","latin_char":"x","description":"LATIN SMALL LETTER X WITH PALATAL HOOK"}
-{"actual_char":"y","unicode":"U+0079","latin_char":"y","description":"LATIN SMALL LETTER Y"}
-{"actual_char":"y","unicode":"U+0079","latin_char":"y","description":"LATIN SMALL LETTER Y"}
 {"actual_char":"ý","unicode":"U+00FD","latin_char":"y","description":"LATIN SMALL LETTER Y ACUTE"}
 {"actual_char":"ÿ","unicode":"U+00FF","latin_char":"y","description":"LATIN SMALL LETTER Y DIAERESIS"}
 {"actual_char":"ŷ","unicode":"U+0177","latin_char":"y","description":"LATIN SMALL LETTER Y CIRCUMFLEX"}
@@ -430,8 +380,6 @@
 {"actual_char":"ƴ","unicode":"U+01B4","latin_char":"y","description":"LATIN SMALL LETTER Y HOOK"}
 {"actual_char":"ỿ","unicode":"U+1EFF","latin_char":"y","description":"LATIN SMALL LETTER Y WITH LOOP"}
 {"actual_char":"ȝ","unicode":"U+021D","latin_char":"3","description":"LATIN SMALL LETTER YOGH"}
-{"actual_char":"z","unicode":"U+007A","latin_char":"z","description":"LATIN SMALL LETTER Z"}
-{"actual_char":"z","unicode":"U+007A","latin_char":"z","description":"LATIN SMALL LETTER Z"}
 {"actual_char":"ź","unicode":"U+017A","latin_char":"z","description":"LATIN SMALL LETTER Z ACUTE"}
 {"actual_char":"ź","unicode":"U+017A","latin_char":"z","description":"LATIN SMALL LETTER Z ACUTE"}
 {"actual_char":"ż","unicode":"U+017C","latin_char":"z","description":"LATIN SMALL LETTER Z DOT"}
